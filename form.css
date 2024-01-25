@@ -1,0 +1,24 @@
+body{
+    height: 100%;
+    width: 100%;
+
+
+}
+.raj{
+
+    height: 600px;
+    width: 450px;
+    border: 2px solid orange ;
+}
+.text-fields{
+    margin: 5px;
+    padding: 5px 5px 5px 5px;
+
+}
+input{
+    border: 2px solid red;
+    border-radius: 5px;
+}
+input[type=submit]{
+    margin-right: 20px;
+}
